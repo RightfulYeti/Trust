@@ -67,4 +67,12 @@ public class PlayerController : MonoBehaviour
         Scale.z *= -1;
         transform.localScale = Scale;
     }
+
+    public int GetDir()
+    {
+        if (FacingRight)
+            return 1;
+        else
+            return 0;
+    }
 }
