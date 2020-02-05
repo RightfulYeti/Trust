@@ -16,4 +16,16 @@ public class PlayerScript : MonoBehaviour
     {
         
     }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Enemy")
+        {
+            HP -= 20;
+        }
+    }
+
+    void OnTriggerExit(Collider other)
+    {
+    }
 }

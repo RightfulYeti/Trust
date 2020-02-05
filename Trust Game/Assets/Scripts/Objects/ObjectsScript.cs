@@ -32,7 +32,8 @@ public class ObjectsScript : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            SMRef.StopSound("Plop");
+           // SMRef.StopSound("Plop");
+            gameObject.GetComponent<Collider>().enabled = false;
         }
     }
 
