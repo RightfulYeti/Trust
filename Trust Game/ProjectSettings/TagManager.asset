@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Wall
   - Enemy
+  - GoodPickup
+  - BadPickup
+  - Diamond
   layers:
   - Default
   - TransparentFX

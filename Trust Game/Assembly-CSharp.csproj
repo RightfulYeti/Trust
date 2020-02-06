@@ -62,12 +62,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Audio\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraScript.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Game Logic\GameManager.cs" />
     <Compile Include="Assets\Scripts\Objects\DestroyBullet.cs" />
-    <Compile Include="Assets\Scripts\Objects\ObjectAI.cs" />
-    <Compile Include="Assets\Scripts\Objects\ObjectsScript.cs" />
+    <Compile Include="Assets\Scripts\Objects\EnemyAI.cs" />
+    <Compile Include="Assets\Scripts\Objects\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\Objects\ShootBullet.cs" />
-    <Compile Include="Assets\Scripts\Parallax.cs" />
+    <Compile Include="Assets\Scripts\Parallax\Parallax.cs" />
+    <Compile Include="Assets\Scripts\Pickup\PickupScript.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerScript.cs" />
     <Compile Include="Assets\Scripts\Player\Shoot.cs" />

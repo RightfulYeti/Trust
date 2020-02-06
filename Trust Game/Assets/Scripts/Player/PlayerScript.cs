@@ -5,6 +5,8 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 {
     public float HP;
+    private bool HasDiamond = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -14,7 +16,6 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
     }
 
     void OnTriggerEnter(Collider other)
@@ -23,9 +24,34 @@ public class PlayerScript : MonoBehaviour
         {
             HP -= 20;
         }
+
+        if (other.tag == "GoodPickup" && HP < 100)
+        {
+            HP += 20;
+        }
+
+        if (other.tag == "BadPickup")
+        {
+            HP -= 20;
+        }
+
+        if (other.tag == "Diamond")
+        {
+            HasDiamond = true;
+        }
     }
 
     void OnTriggerExit(Collider other)
     {
+    }
+
+    public bool GetHasDiamond()
+    {
+        if (HasDiamond)
+        {
+            return true;
+        }
+        else
+            return false;
     }
 }
