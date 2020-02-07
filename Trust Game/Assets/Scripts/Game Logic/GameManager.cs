@@ -29,13 +29,13 @@ public class GameManager : MonoBehaviour
         if (PlayerRef.HP <= 0)
         {
             // Lose Here
-            print("You Lost!");
+            //print("You Lost!");
         }
 
         if (PlayerRef.GetHasDiamond())
         {
             // Win Here
-            print("You Won!");
+            //print("You Won!");
         }
     }
 }

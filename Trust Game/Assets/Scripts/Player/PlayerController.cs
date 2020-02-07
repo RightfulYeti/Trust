@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     Collider[] GroundCollisions;
     Rigidbody RB;
     Rigidbody WhipRB;
+    Animator AnimatorRef;
     public LayerMask GroundLayer;
     public Transform GroundCheck;
     public GameObject Whip;
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour
     {
         RB = GetComponent<Rigidbody>();
         WhipRB = GameObject.Find("Whip").transform.GetChild(0).GetComponent<Rigidbody>();
+        AnimatorRef = GetComponent<Animator>();
         Whip.SetActive(false);
     }
 
@@ -40,6 +42,8 @@ public class PlayerController : MonoBehaviour
             Whipping = false;
             Timer = 0;
         }
+
+        AnimatorRef.SetFloat("Speed", RB.velocity.x);
     }
 
     private void FixedUpdate()
@@ -49,10 +53,12 @@ public class PlayerController : MonoBehaviour
 
         if (Move > 0 && !FacingRight)
         {
+            print("Flipped");
             Flip();
         }
         else if (Move < 0 && FacingRight)
         {
+            print("Flipped");
             Flip();
         }
 
@@ -60,6 +66,7 @@ public class PlayerController : MonoBehaviour
         if (GroundCollisions.Length > 0)
         {
             OnGround = true;
+            AnimatorRef.SetInteger("State", 0);
         }
         else
         {
@@ -68,6 +75,8 @@ public class PlayerController : MonoBehaviour
 
         if (OnGround && Input.GetAxis("Jump") > 0)
         {
+            print("jump");
+            AnimatorRef.SetInteger("State", 1);
             OnGround = false;
             RB.AddForce(new Vector3(0, JumpPower, 0));
         }
