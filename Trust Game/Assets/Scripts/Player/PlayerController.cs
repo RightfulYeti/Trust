@@ -13,20 +13,33 @@ public class PlayerController : MonoBehaviour
 
     Collider[] GroundCollisions;
     Rigidbody RB;
+    Rigidbody WhipRB;
     public LayerMask GroundLayer;
     public Transform GroundCheck;
-
+    public GameObject Whip;
+    public float XWhip;
+    public float YWhip;
+    private float Timer;
+    private bool Whipping = false;
 
     // Start is called before the first frame update
     void Start()
     {
         RB = GetComponent<Rigidbody>();
+        WhipRB = GameObject.Find("Whip").transform.GetChild(0).GetComponent<Rigidbody>();
+        Whip.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Timer += Time.deltaTime; 
+        if (Timer > 1 && Whipping)
+        {
+            Whip.SetActive(false);
+            Whipping = false;
+            Timer = 0;
+        }
     }
 
     private void FixedUpdate()
@@ -57,6 +70,13 @@ public class PlayerController : MonoBehaviour
         {
             OnGround = false;
             RB.AddForce(new Vector3(0, JumpPower, 0));
+        }
+
+        if (Input.GetKey(KeyCode.E) && !Whipping)
+        {
+            Whip.SetActive(true);
+            WhipRB.AddForce(new Vector3(XWhip, YWhip, 0));
+            Whipping = true;
         }
     }
 
