@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: c17ecfa86ecd2d9469667f298687d282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3269009589213140679
+    second: Panda_Walk_Sprite_Sheet_0
+  - first:
+      213: -4783371062934972790
+    second: Panda_Walk_Sprite_Sheet_1
+  - first:
+      213: -207069246869907204
+    second: Panda_Walk_Sprite_Sheet_2
+  - first:
+      213: 4257720072200312141
+    second: Panda_Walk_Sprite_Sheet_3
+  - first:
+      213: -6853612506082576211
+    second: Panda_Walk_Sprite_Sheet_4
+  - first:
+      213: -8188476975095638724
+    second: Panda_Walk_Sprite_Sheet_5
+  - first:
+      213: -4058519463082884493
+    second: Panda_Walk_Sprite_Sheet_6
+  - first:
+      213: -2783858103503742833
+    second: Panda_Walk_Sprite_Sheet_7
+  - first:
+      213: 968801515739172489
+    second: Panda_Walk_Sprite_Sheet_8
+  - first:
+      213: 8387480132125259364
+    second: Panda_Walk_Sprite_Sheet_9
+  - first:
+      213: 4992298903638186156
+    second: Panda_Walk_Sprite_Sheet_10
+  - first:
+      213: -475841581458025197
+    second: Panda_Walk_Sprite_Sheet_11
+  - first:
+      213: 3781071304869554378
+    second: Panda_Walk_Sprite_Sheet_12
+  - first:
+      213: 5726595365821563110
+    second: Panda_Walk_Sprite_Sheet_13
+  - first:
+      213: 3713847522524997795
+    second: Panda_Walk_Sprite_Sheet_14
+  - first:
+      213: 2569367339835229421
+    second: Panda_Walk_Sprite_Sheet_15
+  - first:
+      213: 6007941493758964960
+    second: Panda_Walk_Sprite_Sheet_16
+  - first:
+      213: 5352604650417036569
+    second: Panda_Walk_Sprite_Sheet_17
+  - first:
+      213: 337211412030233730
+    second: Panda_Walk_Sprite_Sheet_18
+  - first:
+      213: -3642501022986821836
+    second: Panda_Walk_Sprite_Sheet_19
+  - first:
+      213: 3681833564045012112
+    second: Panda_Walk_Sprite_Sheet_20
+  - first:
+      213: -4637153059415376758
+    second: Panda_Walk_Sprite_Sheet_21
+  - first:
+      213: 4350407575248956453
+    second: Panda_Walk_Sprite_Sheet_22
+  - first:
+      213: -7906390004520159902
+    second: Panda_Walk_Sprite_Sheet_23
+  - first:
+      213: -8253010073542642987
+    second: Panda_Walk_Sprite_Sheet_24
+  - first:
+      213: 4719798130359533315
+    second: Panda_Walk_Sprite_Sheet_25
+  - first:
+      213: -146239704970489350
+    second: Panda_Walk_Sprite_Sheet_26
+  - first:
+      213: -5841859333456831468
+    second: Panda_Walk_Sprite_Sheet_27
+  - first:
+      213: 4948154059483783256
+    second: Panda_Walk_Sprite_Sheet_28
+  - first:
+      213: -3954775605517849564
+    second: Panda_Walk_Sprite_Sheet_29
+  - first:
+      213: -2558597288888677683
+    second: Panda_Walk_Sprite_Sheet_30
+  - first:
+      213: 4744897361698520554
+    second: Panda_Walk_Sprite_Sheet_31
+  - first:
+      213: 2836759448537762557
+    second: Panda_Walk_Sprite_Sheet_32
+  - first:
+      213: 412814637706610670
+    second: Panda_Walk_Sprite_Sheet_33
+  - first:
+      213: -1330298267616679091
+    second: Panda_Walk_Sprite_Sheet_34
+  - first:
+      213: 7939984195592255505
+    second: Panda_Walk_Sprite_Sheet_35
+  - first:
+      213: 2387391506267423451
+    second: Panda_Walk_Sprite_Sheet_36
+  - first:
+      213: 8229308891494478465
+    second: Panda_Walk_Sprite_Sheet_37
+  - first:
+      213: -6027767326920447939
+    second: Panda_Walk_Sprite_Sheet_38
+  - first:
+      213: 2129177286555921246
+    second: Panda_Walk_Sprite_Sheet_39
+  - first:
+      213: -4879283188912893039
+    second: Panda_Walk_Sprite_Sheet_40
+  - first:
+      213: -351312360187710809
+    second: Panda_Walk_Sprite_Sheet_41
+  - first:
+      213: -1525623786487954457
+    second: Panda_Walk_Sprite_Sheet_42
+  - first:
+      213: -5387986243425632020
+    second: Panda_Walk_Sprite_Sheet_43
+  - first:
+      213: -1704275054529930129
+    second: Panda_Walk_Sprite_Sheet_44
+  - first:
+      213: -852519644694326050
+    second: Panda_Walk_Sprite_Sheet_45
+  - first:
+      213: 3801127830285078795
+    second: Panda_Walk_Sprite_Sheet_46
+  - first:
+      213: -8288233890154162033
+    second: Panda_Walk_Sprite_Sheet_47
+  - first:
+      213: -7447716824749256909
+    second: Panda_Walk_Sprite_Sheet_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61564c6eadd5d20800000000000000
+      internalID: 3269009589213140679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 6480
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d0e49c5d0e9db0800000000000000
+      internalID: -4783371062934972790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 6480
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85968fd97502df0800000000000000
+      internalID: -207069246869907204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 6480
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45dc88e8d5761b30800000000000000
+      internalID: 4257720072200312141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 6480
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f5cadcb313e0a0800000000000000
+      internalID: -6853612506082576211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3595f7539fac5e80800000000000000
+      internalID: -8188476975095638724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 5760
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728fe02d0e3da7c0800000000000000
+      internalID: -4058519463082884493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 5760
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88119bedcfbd59d0800000000000000
+      internalID: -2783858103503742833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5760
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4e7b78dfd17d00800000000000000
+      internalID: 968801515739172489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 5760
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f8fbcdb0566470800000000000000
+      internalID: 8387480132125259364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81deb0765384540800000000000000
+      internalID: 4992298903638186156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 5040
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31595df4a987569f0800000000000000
+      internalID: -475841581458025197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 5040
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82c2d9150197430800000000000000
+      internalID: 3781071304869554378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5040
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04138f424f87f40800000000000000
+      internalID: 5726595365821563110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 5040
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8211a15ac3a8330800000000000000
+      internalID: 3713847522524997795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de48e548bf938a320800000000000000
+      internalID: 2569367339835229421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 4320
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e435d605fe706350800000000000000
+      internalID: 6007941493758964960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 4320
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d163bf195484a40800000000000000
+      internalID: 5352604650417036569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 4320
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c154c1ef30ea400800000000000000
+      internalID: 337211412030233730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 4320
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9fde4e9c337dc0800000000000000
+      internalID: -3642501022986821836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c630b8e10881330800000000000000
+      internalID: 3681833564045012112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3600
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3e647cd585afb0800000000000000
+      internalID: -4637153059415376758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3600
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce1e6e3a0cf5c30800000000000000
+      internalID: 4350407575248956453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3600
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26570e44e2cd64290800000000000000
+      internalID: -7906390004520159902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 3600
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d235ce701b677d80800000000000000
+      internalID: -8253010073542642987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff1ab9467108140800000000000000
+      internalID: 4719798130359533315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2880
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af11d2d53c378fdf0800000000000000
+      internalID: -146239704970489350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2880
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c518143eb8deea0800000000000000
+      internalID: -5841859333456831468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2880
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850207196ef5ba440800000000000000
+      internalID: 4948154059483783256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2880
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6ab24a80dd19c0800000000000000
+      internalID: -3954775605517849564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca438062590e7cd0800000000000000
+      internalID: -2558597288888677683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2160
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed7abbc20349d140800000000000000
+      internalID: 4744897361698520554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2160
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa835b40b13e5720800000000000000
+      internalID: 2836759448537762557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2160
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7859ec9bc9ab500800000000000000
+      internalID: 412814637706610670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2160
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be36916c4d98de0800000000000000
+      internalID: -1330298267616679091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fd7cde8d703e60800000000000000
+      internalID: 7939984195592255505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1440
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2cade0de7b12120800000000000000
+      internalID: 2387391506267423451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1440
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182fd7806d0643270800000000000000
+      internalID: 8229308891494478465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1440
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38633a7d81195ca0800000000000000
+      internalID: -6027767326920447939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1440
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5beef4167b5c8d10800000000000000
+      internalID: 2129177286555921246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193df4e8acd494cb0800000000000000
+      internalID: -4879283188912893039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 720
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2becd0543ef1bf0800000000000000
+      internalID: -351312360187710809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 720
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3cf71df35e3dae0800000000000000
+      internalID: -1525623786487954457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 720
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08ce1fe070a35b0800000000000000
+      internalID: -5387986243425632020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 720
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1f271ed23958e0800000000000000
+      internalID: -1704275054529930129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d3f566ed3b24f0800000000000000
+      internalID: -852519644694326050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015ef55f9150c430800000000000000
+      internalID: 3801127830285078795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d10a90374afc80800000000000000
+      internalID: -8288233890154162033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panda_Walk_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 0
+        width: 1104
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fce11f10564a890800000000000000
+      internalID: -7447716824749256909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 054f3cb70da922142849dc9604e03c4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
