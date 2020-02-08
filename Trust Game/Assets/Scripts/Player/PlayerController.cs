@@ -41,8 +41,13 @@ public class PlayerController : MonoBehaviour
             Whip.SetActive(false);
             Whipping = false;
             Timer = 0;
+            float Counter = 10.0f;
+            for (int i = 0; i < 10; i++)
+            {
+                Whip.transform.GetChild(i).transform.position = new Vector3(gameObject.transform.position.x + Counter/2, gameObject.transform.position.y, gameObject.transform.position.z);
+                Counter--;
+            }
         }
-
         AnimatorRef.SetFloat("Speed", RB.velocity.x);
     }
 
