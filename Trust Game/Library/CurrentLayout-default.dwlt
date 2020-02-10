@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 110
+  controlID: 68
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 111
+  controlID: 69
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 112
+  controlID: 41
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,7 +192,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 72
+  controlID: 42
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   - {fileID: 19}
   - {fileID: 20}
   m_Selected: 0
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -420,10 +420,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 18370000
-      m_LastClickedID: 14104
-      m_ExpandedIDs: 60fbffff18370000
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: 4c370000
+      m_LastClickedID: 14156
+      m_ExpandedIDs: 1ce7ffff60fbffffae360000ec3600002a37000068370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -484,9 +484,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.29765987, y: -2.5458848, z: 1.5002785}
+    m_Target: {x: 117.271706, y: 12.334736, z: -15.614622}
     speed: 2
-    m_Value: {x: 0.29765987, y: -2.5458848, z: 1.5002785}
+    m_Value: {x: 117.271706, y: 12.334736, z: -15.614622}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -532,13 +532,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17303318, y: -0.14481524, z: 0.025662873, w: -0.9739771}
+    m_Target: {x: -0.1968021, y: 0.047885753, z: -0.009732896, w: -0.9793672}
     speed: 2
-    m_Value: {x: -0.17301573, y: -0.14480063, z: 0.025660286, w: -0.97387886}
+    m_Value: {x: -0.19677465, y: 0.047879074, z: -0.0097315395, w: -0.97923064}
   m_Size:
-    m_Target: 7.1145744
+    m_Target: 12.038585
     speed: 2
-    m_Value: 7.1145744
+    m_Value: 12.038585
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -712,21 +712,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Level Objects
+    - Assets/Prefabs/Pickups
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Prefabs/Level Objects
+  - Assets/Prefabs/Pickups
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Jeppe\Desktop\Argelite\Ny\Trust\Trust Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 20}
-    m_SelectedIDs: 4a3a0000
-    m_LastClickedID: 14922
-    m_ExpandedIDs: 00000000163a0000183a0000443a000000ca9a3b
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 423a0000
+    m_LastClickedID: 14914
+    m_ExpandedIDs: 00000000163a0000183a00003a3a0000483a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -754,7 +754,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000163a0000183a00001a3a00001c3a0000
+    m_ExpandedIDs: 00000000163a0000183a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

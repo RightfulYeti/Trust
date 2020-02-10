@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\Player\Shoot.cs" />
      <Compile Include="Assets\Scripts\Spawning\SpawnPoint.cs" />
      <Compile Include="Assets\Scripts\UI\HealthBarScript.cs" />
+     <Compile Include="Assets\TileScript.cs" />
  <Reference Include="Unity.XR.Management">
  <HintPath>C:/Users/Jeppe/Desktop/Argelite/Ny/Trust/Trust Game/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
  </Reference>

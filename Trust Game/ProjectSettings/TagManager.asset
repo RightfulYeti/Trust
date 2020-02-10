@@ -9,6 +9,7 @@ TagManager:
   - GoodPickup
   - BadPickup
   - Diamond
+  - Friend
   layers:
   - Default
   - TransparentFX

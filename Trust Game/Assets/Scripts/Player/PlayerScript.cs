@@ -25,7 +25,7 @@ public class PlayerScript : MonoBehaviour
             HP -= 20;
         }
 
-        if (other.tag == "GoodPickup" && HP < 100)
+        if ((other.tag == "GoodPickup" || other.tag == "Friend") && HP < 100)
         {
             HP += 20;
         }
