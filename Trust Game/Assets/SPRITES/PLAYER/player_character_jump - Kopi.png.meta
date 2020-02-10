@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 5dad8d8c1a6c6674a9273461d5e0f7bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2182928545866643870
+    second: player_character_jump - Kopi_0
+  - first:
+      213: -5912927933248325932
+    second: player_character_jump - Kopi_1
+  - first:
+      213: 7160074901660697546
+    second: player_character_jump - Kopi_2
+  - first:
+      213: 1384308338343272984
+    second: player_character_jump - Kopi_3
+  - first:
+      213: 7751072041684323978
+    second: player_character_jump - Kopi_4
+  - first:
+      213: -217022401728647286
+    second: player_character_jump - Kopi_5
+  - first:
+      213: 3229665820672787521
+    second: player_character_jump - Kopi_6
+  - first:
+      213: 4088394573831940955
+    second: player_character_jump - Kopi_7
+  - first:
+      213: -4782249854893160096
+    second: player_character_jump - Kopi_8
+  - first:
+      213: -776297941973092610
+    second: player_character_jump - Kopi_9
+  - first:
+      213: -3744615053788490656
+    second: player_character_jump - Kopi_10
+  - first:
+      213: -9067401549814414320
+    second: player_character_jump - Kopi_11
+  - first:
+      213: -5147981025796594758
+    second: player_character_jump - Kopi_12
+  - first:
+      213: -1616777156462385066
+    second: player_character_jump - Kopi_13
+  - first:
+      213: -9180889253733783867
+    second: player_character_jump - Kopi_14
+  - first:
+      213: 7377427589647881774
+    second: player_character_jump - Kopi_15
+  - first:
+      213: -6646843870744885028
+    second: player_character_jump - Kopi_16
+  - first:
+      213: 2509199806382077653
+    second: player_character_jump - Kopi_17
+  - first:
+      213: 5486501109998884947
+    second: player_character_jump - Kopi_18
+  - first:
+      213: -6632313446949415904
+    second: player_character_jump - Kopi_19
+  - first:
+      213: 8275334817294580215
+    second: player_character_jump - Kopi_20
+  - first:
+      213: 3381884699103061135
+    second: player_character_jump - Kopi_21
+  - first:
+      213: 4353445005760316024
+    second: player_character_jump - Kopi_22
+  - first:
+      213: -8834638195007520221
+    second: player_character_jump - Kopi_23
+  - first:
+      213: -5204979448343473684
+    second: player_character_jump - Kopi_24
+  - first:
+      213: 2328951747174980532
+    second: player_character_jump - Kopi_25
+  - first:
+      213: 3470685755579688374
+    second: player_character_jump - Kopi_26
+  - first:
+      213: 272714043608972723
+    second: player_character_jump - Kopi_27
+  - first:
+      213: -826303663199778683
+    second: player_character_jump - Kopi_28
+  - first:
+      213: -5776401822633897279
+    second: player_character_jump - Kopi_29
+  - first:
+      213: 1636107526030116295
+    second: player_character_jump - Kopi_30
+  - first:
+      213: -7992233115709475184
+    second: player_character_jump - Kopi_31
+  - first:
+      213: -32808658969503257
+    second: player_character_jump - Kopi_32
+  - first:
+      213: -8293568380263502629
+    second: player_character_jump - Kopi_33
+  - first:
+      213: -6059110437623581256
+    second: player_character_jump - Kopi_34
+  - first:
+      213: -2873977281916566951
+    second: player_character_jump - Kopi_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9961
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660f8d9d0ea4b1e0800000000000000
+      internalID: -2182928545866643870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_1
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 9961
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6bf3c6f5f01fda0800000000000000
+      internalID: -5912927933248325932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_2
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 9961
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30da6ff22bd5360800000000000000
+      internalID: 7160074901660697546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_3
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 9961
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ef8e691d063310800000000000000
+      internalID: 1384308338343272984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_4
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 9961
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4e0974f6519b60800000000000000
+      internalID: 7751072041684323978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8538
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f69a4864bfcfcf0800000000000000
+      internalID: -217022401728647286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_6
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 8538
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440c60d3f312dc20800000000000000
+      internalID: 3229665820672787521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_7
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 8538
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b23e22435ecb830800000000000000
+      internalID: 4088394573831940955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_8
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 8538
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690eeb281902adb0800000000000000
+      internalID: -4782249854893160096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_9
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 8538
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b3d082290a35f0800000000000000
+      internalID: -776297941973092610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7115
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645b5ac274780cc0800000000000000
+      internalID: -3744615053788490656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_11
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 7115
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144c73e45e1a2280800000000000000
+      internalID: -9067401549814414320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_12
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 7115
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab361fe3882be88b0800000000000000
+      internalID: -5147981025796594758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_13
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 7115
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e7140ebd0099e0800000000000000
+      internalID: -1616777156462385066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_14
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 7115
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c62ffcbddde69080800000000000000
+      internalID: -9180889253733783867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d0253e43e16660800000000000000
+      internalID: 7377427589647881774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_16
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 5692
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c4ce47baa1c3a0800000000000000
+      internalID: -6646843870744885028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_17
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 5692
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f1e9fde772d220800000000000000
+      internalID: 2509199806382077653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_18
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 5692
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581549d0b7f32c40800000000000000
+      internalID: 5486501109998884947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_19
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 5692
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024988b3f0a45f3a0800000000000000
+      internalID: -6632313446949415904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4269
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f346fb25e7d270800000000000000
+      internalID: 8275334817294580215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_21
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 4269
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ed51473edeee20800000000000000
+      internalID: 3381884699103061135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_22
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 4269
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ca8dca2b8a6c30800000000000000
+      internalID: 4353445005760316024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_23
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 4269
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228a7b9e5f056580800000000000000
+      internalID: -8834638195007520221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_24
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 4269
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15746d4c234c7b0800000000000000
+      internalID: -5204979448343473684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2846
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd3655649125020800000000000000
+      internalID: 2328951747174980532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_26
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2846
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e5546e4a5a2030800000000000000
+      internalID: 3470685755579688374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_27
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2846
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb29e4affd8c300800000000000000
+      internalID: 272714043608972723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_28
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 2846
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5888f5e32316884f0800000000000000
+      internalID: -826303663199778683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_29
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 2846
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2dcf1a52916dfa0800000000000000
+      internalID: -5776401822633897279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54e5f502f94b610800000000000000
+      internalID: 1636107526030116295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_31
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1423
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f5007352e51190800000000000000
+      internalID: -7992233115709475184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_32
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1423
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d090d2b07b8ff0800000000000000
+      internalID: -32808658969503257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_33
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1423
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc6bf5df7357ec80800000000000000
+      internalID: -8293568380263502629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_34
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 1423
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b596d827b9eba0800000000000000
+      internalID: -6059110437623581256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_jump - Kopi_35
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 0
+        width: 1289.8
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95202da93e49d18d0800000000000000
+      internalID: -2873977281916566951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: c9a9915e8fbfa7f478cad060438b771c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -521379129150680333
+    second: player_character_sprite_sheet - Kopi_0
+  - first:
+      213: -3712560828099421792
+    second: player_character_sprite_sheet - Kopi_1
+  - first:
+      213: 5424610782949699354
+    second: player_character_sprite_sheet - Kopi_2
+  - first:
+      213: -3238270278035659463
+    second: player_character_sprite_sheet - Kopi_3
+  - first:
+      213: 8281227221385444629
+    second: player_character_sprite_sheet - Kopi_4
+  - first:
+      213: -7325788793740615653
+    second: player_character_sprite_sheet - Kopi_5
+  - first:
+      213: -8241440410606189769
+    second: player_character_sprite_sheet - Kopi_6
+  - first:
+      213: 6689446097609434834
+    second: player_character_sprite_sheet - Kopi_7
+  - first:
+      213: -2357028117222474857
+    second: player_character_sprite_sheet - Kopi_8
+  - first:
+      213: 5570195595040466387
+    second: player_character_sprite_sheet - Kopi_9
+  - first:
+      213: 3699258321856563437
+    second: player_character_sprite_sheet - Kopi_10
+  - first:
+      213: -4231146908703566791
+    second: player_character_sprite_sheet - Kopi_11
+  - first:
+      213: 3234196958854595544
+    second: player_character_sprite_sheet - Kopi_12
+  - first:
+      213: 1518243689919013409
+    second: player_character_sprite_sheet - Kopi_13
+  - first:
+      213: -3274493194423243661
+    second: player_character_sprite_sheet - Kopi_14
+  - first:
+      213: -6845751926074047308
+    second: player_character_sprite_sheet - Kopi_15
+  - first:
+      213: -4682766035280838031
+    second: player_character_sprite_sheet - Kopi_16
+  - first:
+      213: 7731963855658477671
+    second: player_character_sprite_sheet - Kopi_17
+  - first:
+      213: -831903363685768645
+    second: player_character_sprite_sheet - Kopi_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4218
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2dba5c170b3c8f0800000000000000
+      internalID: -521379129150680333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_1
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4218
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a99a1ac8955a7cc0800000000000000
+      internalID: -3712560828099421792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_2
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4218
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f687a24c6184b40800000000000000
+      internalID: 5424610782949699354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_3
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 4218
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935aaf6d65a5f03d0800000000000000
+      internalID: -3238270278035659463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_4
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 4218
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d79f23844dce270800000000000000
+      internalID: 8281227221385444629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ad81e7e1955a90800000000000000
+      internalID: -7325788793740615653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_6
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2812
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c4409c9580ad80800000000000000
+      internalID: -8241440410606189769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_7
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2812
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6222898cfa5dc50800000000000000
+      internalID: 6689446097609434834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_8
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 2812
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb85b5a672a4fd0800000000000000
+      internalID: -2357028117222474857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_9
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 2812
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d525dba16f4d4d40800000000000000
+      internalID: 5570195595040466387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80bae18d7665330800000000000000
+      internalID: 3699258321856563437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_11
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1406
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345b3add42f745c0800000000000000
+      internalID: -4231146908703566791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_12
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1406
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34d22affc22ec20800000000000000
+      internalID: 3234196958854595544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_13
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 1406
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e91c8792e11510800000000000000
+      internalID: 1518243689919013409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_14
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 1406
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce7f6e9c9ae82d0800000000000000
+      internalID: -3274493194423243661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_15
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b409e1c4e00ff0a0800000000000000
+      internalID: -6845751926074047308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_16
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 0
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17242dce919730fb0800000000000000
+      internalID: -4682766035280838031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_17
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 0
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768eea839247d4b60800000000000000
+      internalID: 7731963855658477671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_sprite_sheet - Kopi_18
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 0
+        width: 1222
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ae006c4c7474f0800000000000000
+      internalID: -831903363685768645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

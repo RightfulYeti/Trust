@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 17773198364f32c458ab872e0e553a85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5617626355450712496
+    second: player_character_idle - Kopi_0
+  - first:
+      213: -1439536441804132891
+    second: player_character_idle - Kopi_1
+  - first:
+      213: -6049863491750210890
+    second: player_character_idle - Kopi_2
+  - first:
+      213: -154235108361960167
+    second: player_character_idle - Kopi_3
+  - first:
+      213: 356909024583538541
+    second: player_character_idle - Kopi_4
+  - first:
+      213: -6504274274440071378
+    second: player_character_idle - Kopi_5
+  - first:
+      213: -278884414079402921
+    second: player_character_idle - Kopi_6
+  - first:
+      213: -7716321940093561031
+    second: player_character_idle - Kopi_7
+  - first:
+      213: -6366756847759418796
+    second: player_character_idle - Kopi_8
+  - first:
+      213: -6598497743420852146
+    second: player_character_idle - Kopi_9
+  - first:
+      213: -6703079094528440994
+    second: player_character_idle - Kopi_10
+  - first:
+      213: 1874833502579386594
+    second: player_character_idle - Kopi_11
+  - first:
+      213: 5408252193698659538
+    second: player_character_idle - Kopi_12
+  - first:
+      213: -8416519328345932586
+    second: player_character_idle - Kopi_13
+  - first:
+      213: -4980906289479475069
+    second: player_character_idle - Kopi_14
+  - first:
+      213: -6767937138747607802
+    second: player_character_idle - Kopi_15
+  - first:
+      213: 9205148411558965675
+    second: player_character_idle - Kopi_16
+  - first:
+      213: 6915939518854844196
+    second: player_character_idle - Kopi_17
+  - first:
+      213: 4617543651574107580
+    second: player_character_idle - Kopi_18
+  - first:
+      213: -6321114846170713162
+    second: player_character_idle - Kopi_19
+  - first:
+      213: 2263554223504142084
+    second: player_character_idle - Kopi_20
+  - first:
+      213: -1466759046189412471
+    second: player_character_idle - Kopi_21
+  - first:
+      213: 1140647862205700689
+    second: player_character_idle - Kopi_22
+  - first:
+      213: -4731198433119875793
+    second: player_character_idle - Kopi_23
+  - first:
+      213: 1511828799833916553
+    second: player_character_idle - Kopi_24
+  - first:
+      213: 1585920792246291908
+    second: player_character_idle - Kopi_25
+  - first:
+      213: -370319042059469842
+    second: player_character_idle - Kopi_26
+  - first:
+      213: 3986230822413881113
+    second: player_character_idle - Kopi_27
+  - first:
+      213: 3955360042248282052
+    second: player_character_idle - Kopi_28
+  - first:
+      213: 2995096518814779499
+    second: player_character_idle - Kopi_29
+  - first:
+      213: 8047962753330008933
+    second: player_character_idle - Kopi_30
+  - first:
+      213: -6784393344676954700
+    second: player_character_idle - Kopi_31
+  - first:
+      213: -4315298540557482845
+    second: player_character_idle - Kopi_32
+  - first:
+      213: -6671606633266750790
+    second: player_character_idle - Kopi_33
+  - first:
+      213: 6450262990708471326
+    second: player_character_idle - Kopi_34
+  - first:
+      213: -2984981190384369336
+    second: player_character_idle - Kopi_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8869
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eec7ad79e2a02b0800000000000000
+      internalID: -5617626355450712496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_1
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 8869
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede801bb3db50ce0800000000000000
+      internalID: -1439536441804132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_2
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 8869
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2df9235319a0ca0800000000000000
+      internalID: -6049863491750210890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_3
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 8869
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91501327cfb0cddf0800000000000000
+      internalID: -154235108361960167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_4
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 8869
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67de6beddef3f400800000000000000
+      internalID: 356909024583538541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7602
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b94e220d2cb5a0800000000000000
+      internalID: -6504274274440071378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_6
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 7602
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c776d5a14312cf0800000000000000
+      internalID: -278884414079402921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_7
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 7602
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379b2c041e1ae490800000000000000
+      internalID: -7716321940093561031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_8
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 7602
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9306216cb4a7a0800000000000000
+      internalID: -6366756847759418796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_9
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 7602
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48fe20434d6d64a0800000000000000
+      internalID: -6598497743420852146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6335
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e550945f311e9f2a0800000000000000
+      internalID: -6703079094528440994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_11
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 6335
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ee36232fb40a10800000000000000
+      internalID: 1874833502579386594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_12
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 6335
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb22d47b8fd0b40800000000000000
+      internalID: 5408252193698659538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_13
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 6335
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3bb47344823b80800000000000000
+      internalID: -8416519328345932586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_14
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 6335
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3802114ae1440eab0800000000000000
+      internalID: -4980906289479475069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5068
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60576c6c7057312a0800000000000000
+      internalID: -6767937138747607802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_16
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 5068
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba139b795b14fbf70800000000000000
+      internalID: 9205148411558965675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_17
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 5068
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fcd65a95a5aff50800000000000000
+      internalID: 6915939518854844196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_18
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 5068
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4fee7c7fc41040800000000000000
+      internalID: 4617543651574107580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_19
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 5068
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3fb81c983e648a0800000000000000
+      internalID: -6321114846170713162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3801
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40faccdc292c96f10800000000000000
+      internalID: 2263554223504142084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3801
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0ac03b6605abe0800000000000000
+      internalID: -1466759046189412471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_22
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3801
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5490ff2564df00800000000000000
+      internalID: 1140647862205700689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_23
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 3801
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d41009718675eb0800000000000000
+      internalID: -4731198433119875793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_24
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3801
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844e4f88481bf410800000000000000
+      internalID: 1511828799833916553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2534
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0fb7de82520610800000000000000
+      internalID: 1585920792246291908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_26
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2534
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7b741bcc5cdaf0800000000000000
+      internalID: -370319042059469842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_27
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2534
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f41b220dfe15730800000000000000
+      internalID: 3986230822413881113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_28
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2534
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf9bf4800344e630800000000000000
+      internalID: 3955360042248282052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_29
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2534
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c6f74a68b09920800000000000000
+      internalID: 2995096518814779499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635fc5fb7b10bf60800000000000000
+      internalID: 8047962753330008933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_31
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1267
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd7102c23ef8d1a0800000000000000
+      internalID: -6784393344676954700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_32
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1267
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44f4e37dafc14c0800000000000000
+      internalID: -4315298540557482845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_33
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1267
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abadefe5d11b963a0800000000000000
+      internalID: -6671606633266750790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_34
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1267
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f60dd300f38950800000000000000
+      internalID: 6450262990708471326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_character_idle - Kopi_35
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 0
+        width: 905
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cae52c673396d0800000000000000
+      internalID: -2984981190384369336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
