@@ -240,17 +240,17 @@ PrefabInstance:
     - target: {fileID: 8702951357841643180, guid: 90c6c0ed22a9ed742b9ca7feca1ed7a3,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8702951357841643181, guid: 90c6c0ed22a9ed742b9ca7feca1ed7a3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 72.04242
+      value: 60.16
       objectReference: {fileID: 0}
     - target: {fileID: 8702951357841643181, guid: 90c6c0ed22a9ed742b9ca7feca1ed7a3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.65
+      value: 3.77
       objectReference: {fileID: 0}
     - target: {fileID: 8702951357841643181, guid: 90c6c0ed22a9ed742b9ca7feca1ed7a3,
         type: 3}
@@ -1387,7 +1387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 026be458513bfdc4cb8ca51637f2c850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2801348068837752629, guid: c7f5faab0f5b05d44a32d9e1bd3387ba,
+  EnemyType: {fileID: 2801348068837752629, guid: 3718e9d5e0f33c74a85dcede8dbba17e,
     type: 3}
   SpawnRate: 1
   TotalEnemyAmount: 1
@@ -1794,11 +1794,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 026be458513bfdc4cb8ca51637f2c850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyType: {fileID: 2801348068837752629, guid: 53331079a6b9cb145a8afed29e802ee8,
+  EnemyType: {fileID: 2801348068837752629, guid: 3718e9d5e0f33c74a85dcede8dbba17e,
     type: 3}
   SpawnRate: 5
   TotalEnemyAmount: 1
-  Movable: 0
+  Movable: 1
 --- !u!1001 &817993220
 PrefabInstance:
   m_ObjectHideFlags: 0
