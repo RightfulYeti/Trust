@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float GroundCheckRadius = 0.2f;
     public float JumpPower = 0.0f;
     bool FacingRight = true;
-    bool OnGround = false;
+    public bool OnGround;
 
     Collider[] GroundCollisions;
     Rigidbody RB;
